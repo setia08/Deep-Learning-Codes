@@ -10,6 +10,7 @@ Hands-on notebooks covering the foundations of deep learning, from a single perc
 | [perceptron-trick.ipynb](perceptron-trick.ipynb) | The perceptron trick: updating weights step by step on a synthetic classification dataset |
 | [keras-library-deep-learning.ipynb](keras-library-deep-learning.ipynb) | A first neural network with Keras `Sequential` and `Dense` layers, with feature scaling and accuracy evaluation |
 | [mnist_DL.ipynb](mnist_DL.ipynb) | Handwritten digit classification on MNIST using a Keras `Flatten` + `Dense` network |
+| [gradient_descent.ipynb](gradient_descent.ipynb) | Gradient descent for linear regression, comparing a manual implementation against scikit-learn's `LinearRegression` |
 
 **Data:** [placement.csv](placement.csv) is a small dataset (`cgpa`, `resume_score`, `placed`) used to predict student placement.
 
@@ -32,3 +33,4 @@ jupyter notebook
 2. Perceptron trick
 3. Neural networks with Keras
 4. MNIST digit classification
+5. Gradient descent
